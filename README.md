@@ -1,1 +1,1 @@
-# RNN_LSTM
+# Recurrent Neural Network for Time Series Prediction
